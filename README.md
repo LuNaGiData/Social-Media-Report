@@ -43,7 +43,12 @@ Ein interaktives Dashboard für kanalübergreifende Social Media Auswertungen �
 ## 👤 Copyright
 
 © Luca Napolitano Gil  
-Freigegeben unter MIT License
+
+
+## Lizenz
+
+Dieses Projekt steht unter der [Creative Commons BY-NC 4.0 Lizenz](https://creativecommons.org/licenses/by-nc/4.0/).
+
 
 ## 🤝 Kontakt & Feedback
 
